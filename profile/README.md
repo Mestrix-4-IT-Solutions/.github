@@ -74,10 +74,21 @@ From **custom software development** to **IT consulting**, we help companies tra
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mestrix-4-IT-Solutions&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mestrix-4-IT-Solutions&theme=tokyonight&hide_border=true"/>
-</p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Mestrix-4-IT-Solutions&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mestrix-4-IT-Solutions&theme=dark&hide_border=false" />
+</td>
+<td width="50%" align="center">
+
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mestrix-4-IT-Solutions&theme=dark&hide_border=false&langs_count=10" />
+  
+  </td>
+</tr>
+</table>
 
 ---
 
