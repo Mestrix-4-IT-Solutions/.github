@@ -69,28 +69,6 @@ From **custom software development** to **IT consulting**, we help companies tra
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Mestrix-4-IT-Solutions&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mestrix-4-IT-Solutions&theme=dark&hide_border=false" />
-</td>
-<td width="50%" align="center">
-
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mestrix-4-IT-Solutions&theme=dark&hide_border=false&langs_count=10" />
-  
-  </td>
-</tr>
-</table>
-
----
 
 ## ⭐ Why Choose Mestrix4?
 
